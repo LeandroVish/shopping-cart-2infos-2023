@@ -3,7 +3,7 @@ import ListagemLivros from '@/components/ListagemLivros.vue'
 import MeuCarrinho from '@/components/MeuCarrinho.vue'
 </script>
 
-<template>
+<template>    
   <h1>Minha livraria</h1>
   <div class="container-geral">
     <listagem-livros />
